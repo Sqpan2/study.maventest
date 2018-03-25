@@ -13,6 +13,6 @@ package com.panshiqi.study.maventest;
 public class TestUtil {
 
 	public static void printHello() {
-		System.out.println("========== HELLO version 0.0.1-SNAPSHOT =========");
+		System.out.println("========== HELLO version 0.0.1-SNAPSHOT 001 =========");
 	}
 }
